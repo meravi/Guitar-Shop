@@ -1,0 +1,17 @@
+/////////////////////////////////////////////////////////////////////////////////////////
+
+************************************xxxxxxxxxxxxxxxxxxxx*********************************
+
+how to login for admin
+
+go to url localhost/your_projectName/meadmin/web
+
+enter email and password email: meravi and password: meravi
+
+for client login localhost/your_ProjectName/meuser/web
+
+
+enter email ravi@ravi password ravi or check into database.
+
+
+Note: if you have any problem in this project then you can contact me free of cost........... 
