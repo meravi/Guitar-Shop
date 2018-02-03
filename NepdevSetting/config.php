@@ -4,7 +4,7 @@
 	 public $Server = "localhost";
 	 public $User = "root";
 	 public $Pass = "";
-	 public $Dbname = "NepDevGuitar";
+	 public $Dbname = "nepdevguitar";
 	 public $NepdevConnect;
 	 
 	 public function __construct()
